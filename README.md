@@ -19,4 +19,10 @@ Now you have to configure your own repository. The easiest way to perform this i
 
 ## Execute Project
 
-To execute the project
+To execute the project use the following command:
+
+`yarn dev`
+
+## Contributions
+
+This project is open to receive contributions! All of them will be welcome! =)

@@ -2,8 +2,8 @@
 
 ## Pre-requisites
 
-1. [Node.js](https://nodejs.com) version 11 or newer
-2. [Yarn](https://yarn.com) version 1.15 or newer 
+1. [Node.js](https://nodejs.org) version 11 or newer
+2. [Yarn](https://yarnpkg.com) version 1.15 or newer
 
 ## How to use
 
